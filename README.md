@@ -17,7 +17,7 @@ a record of everything I have done and learned.</p>
 <h4>JS mini projects</h4>
 <ul>
   <li><h4><a href="https://moh7afiz90.github.io/AnalogClock/">Analog Clock</a></h4></li>
-  <li><h4>Playing with CSS variables<a href="https://moh7afiz90.github.io/cssVariables/">Spacing + blur + Color</a></h4></li>
+  <li><h4>Playing with CSS variables <a href="https://moh7afiz90.github.io/cssVariables/">Spacing + blur + Color</a></h4></li>
 </ul>
 
 <h6><strong>Feel free to to play with the code</strong></h6>
