@@ -6,7 +6,7 @@ a record of everything I have done and learned.</p>
 <h4>Main Projects</h4>
 <ul>
 <li><h5>Re-Design Concept of <a href="https://moh7afiz90.github.io/amaz/">AMAZ</a> <a href="http://amaz.sa">(amaz Saudi Arabia)</a></h5></li>
-    <li><h5>Front End Project <a href="https://moh7afiz90.github.io/portfolio/">Portfolio</a></h5></li>
+    <li><h5>Front End Project <a href="https://moh7afiz90.github.io/portfolio/">Portfolio (unfinished)</a></h5></li>
 </ul>
 <!-- HTML & CSS projects -->
 <h4>HTML & CSS Projects</h4>
