@@ -3,7 +3,7 @@
 This repository is not for an app but more as a journal where I keep a record of everything I have done and learned.
 
 
-## Technologies used
+## Main Projects
 * [Re-Design Concept of AMAZ](https://moh7afiz90.github.io/amaz/)  
 * [Portfolio](https://moh7afiz90.github.io/portfolio/)
 
@@ -19,6 +19,8 @@ This repository is not for an app but more as a journal where I keep a record of
 * [Playing With CSS3 variables ](https://moh7afiz90.github.io/cssVariables/)  
 * [Analog Clock](https://moh7afiz90.github.io/AnalogClock/)
 
+## Angular 2/4 projects
+* [ImageSearchFinder](https://github.com/moh7afiz90/ngImageSearchApp)
 ## Feel free to to play with the code
 
 
