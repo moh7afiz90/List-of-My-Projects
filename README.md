@@ -21,6 +21,7 @@ This repository is not for an app but more as a journal where I keep a record of
 
 ## Angular 2/4 projects
 * [ImageSearchFinder](https://github.com/moh7afiz90/ngImageSearchApp)
+* [MovieFinderApp](https://github.com/moh7afiz90/movie-finder-app)
 ## Feel free to to play with the code
 
 
