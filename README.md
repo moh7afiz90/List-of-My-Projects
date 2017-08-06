@@ -23,7 +23,7 @@ This repository is not for an app but more as a journal where I keep a record of
 * [ImageSearchFinder](https://github.com/moh7afiz90/ngImageSearchApp)
 * [MovieFinderApp](https://moh7afiz90.github.io/movie-finder-app/)
 * [FAQ-App](https://moh7afiz90.github.io/faqapp/)
-[Client-Panel](https://client-panel-15a04.firebaseapp.com)
+* [Client-Panel](https://client-panel-15a04.firebaseapp.com)
 ## Feel free to to play with the code
 
 
