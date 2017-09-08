@@ -24,8 +24,7 @@ This repository is not for an app but more as a journal where I keep a record of
 * [MovieFinderApp](https://moh7afiz90.github.io/movie-finder-app/)
 * [FAQ-App](https://moh7afiz90.github.io/faqapp/)
 * [Client-Panel](https://client-panel-15a04.firebaseapp.com)
+
+## VueJS projects
+* [Word Translator](https://github.com/moh7afiz90/vuejs-translator)
 ## Feel free to to play with the code
-
-
-
-
